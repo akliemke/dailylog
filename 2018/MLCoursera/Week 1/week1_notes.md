@@ -23,7 +23,7 @@ Theta 0 and Theta 1 is the parameters of the *model*.
 > Theta 1 controls the inclination of the straight line
 
 Having a dataset for training, what we want to do is to come up with values for the parameters theta 0 and theta 1, so that straight line of the function somehow fits the data well. Like this:
-![Straight Line]()
+![Straight Line](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/straight_line_fit.PNG)
 ### Cost Function Intuition  
 
 **Hypothesis** = ![Hypothesis](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/CodeCogsEqn.gif)
