@@ -5,7 +5,7 @@
 ## Week 1
 
  - [x] Introduction | [Notes]()
- - [x] Linear Regression With One Variable [Notes](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/Linear%20Regression%20and%20Cost%20Function.ipynb)
+ - [x] Linear Regression With One Variable | [Notes](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/Linear%20Regression%20and%20Cost%20Function.ipynb)
  - [ ] Linear Algebra Review
 
 ## Week 2
