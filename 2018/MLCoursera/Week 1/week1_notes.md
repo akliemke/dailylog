@@ -4,11 +4,14 @@
 ## Notation of the Course
 
 > m   = Number of training examples
-> x's = "input" variable | feature
-> y's = "output" variable | "target" variable
-> (x, y) = Single traing example
-> (x_{(i)})
 
+> x's = "input" variable | feature
+
+> y's = "output" variable | "target" variable
+
+> (x, y) = Single traing example
+
+> x^1
 
 ## Cost Function
 
