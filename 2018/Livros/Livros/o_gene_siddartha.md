@@ -3,30 +3,13 @@
 
 
 ## Conceitos
-===
 
-a
-
-===
 ## Noção Histórica
-===
 
-===
 ## Quotes
-===
 
-asdasdasd
-
-===
 ## Pessoas
-===
 
-===
 ## Palavras
-===
 
-===
 ## Referências
-===
-
-===
