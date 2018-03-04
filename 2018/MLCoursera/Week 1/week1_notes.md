@@ -1,6 +1,14 @@
 # Week 1 - Notes
 
 
+## Notation of the Course
+
+> m   = Number of training examples
+> x's = "input" variable | feature
+> y's = "output" variable | "target" variable
+> (x, y) = Single traing example
+> (x_{(i)})
+
 
 ## Cost Function
 
