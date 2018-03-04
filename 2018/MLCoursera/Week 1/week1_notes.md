@@ -19,9 +19,12 @@
 
 **Hypotesis** = ![Hypothesis](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/CodeCogsEqn.gif)
 
-**Parameters** = ![Parameters]()
+**Parameters** = ![Parameters](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/theta_0_theta_1.gif)
 
-**Cost Function** = 
+**Cost Function** = ![Cost Function](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/costa_function.gif)
+
+**Goal** = Minimize ![Theta0_Theta1](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/theta_0_theta_1.gif) ![J_Function](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/J_function.gif)
+
 
 ## Linear Regression and Gradient Descent
 
