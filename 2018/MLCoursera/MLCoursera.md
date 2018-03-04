@@ -4,7 +4,7 @@
 
 ## Week 1
 
- - [x] Introduction
+ - [x] Introduction | [Notes]()
  - [x] Linear Regression With One Variable
  - [ ] Linear Algebra Review
 
