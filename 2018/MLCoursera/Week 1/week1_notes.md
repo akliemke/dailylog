@@ -1,22 +1,32 @@
 # Week 1 - Notes
+**Adenotas:** Notas escritas primeiramente em português, ao decorrer do curso, criarei notas também em inglês e mais no futuro em francês, apenas para efeito de treinar os dois idiomas.
 
+## Notação usada no curso.
 
-## Notation of the Course
+> m   = Número de variavéis(features) para treino
 
-> m   = Number of training examples
-
-> x's = "input" variable | feature
+> x's = "input" variable. | feature
 
 > y's = "output" variable | "target" variable
 
-> (x, y) = Single traing example
+> (x, y) = Um único exemplo de treino do nossa *dateset*
 
-> ![formula](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/CodeCogsEqn2.gif) = iTh training example (index of the variable)
+> ![formula](https://github.com/akliemke/dailylog/blob/master/2018/MLCoursera/Week%201/images/CodeCogsEqn2.gif) = inésimo exemplo de treino, ondeo *i* é a posição no vetor de treino.
 
-## Cost Function
+## Função custo e Hipótese.
 
-*Hypothesis* is a linear function used to make predictions of the *target's* (Price of a house, for example). 
-Theta 0 and Theta 1 is the parameters of the *model*.
+Problema hipotético para contextualizar os conceitos: Encontrar o melhor preço de um apartamento dado o tamanho (m²) do mesmo.
+
+A variável *x* é chamada de *input* ou *feature*. Em nosso exemplo, seria a área do apartamento que estamos tentando prever.
+
+A variável *y* é chamada de *output* ou *target*, que é o que estamos tentando prever. Em nosso exemplo, seria o preço do apartamento.
+
+Históricamente, *hipótese* (hypothesis) é o nome  dado a função lienar usada para fazermos a predição de *Y* (target). 
+
+
+
+*Theta 0* e *Theta 1* são os parâmetros do nosso *modelo*.  
+
 
 > Theta 0 controls the horizontal inclination of the straight line 
 
