@@ -11,5 +11,5 @@
 ## Pessoas
 
 ## Palavras
-
+**Presciência:** Conhecimento do futuro. Previsão.
 ## Referências
