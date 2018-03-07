@@ -6,3 +6,5 @@
 ## Livros
 
 -- [ ] [O Gene, Uma História Íntima | Siddhartha Mukherjee](https://github.com/akliemke/dailylog/blob/master/2018/Livros/Livros/o_gene_siddartha.md) 
+-- [ ] Os Bons Anjos da nossa natureza | 
+-- [ ] Descontruíndo a Web | 
