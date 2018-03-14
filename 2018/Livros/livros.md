@@ -9,4 +9,4 @@
 
 -- [ ] Os Bons Anjos da nossa natureza | 
 
--- [x] [Descontruíndo a Web | Willian Molinari]() 
+-- [x] [Descontruíndo a Web | Willian Molinari](https://github.com/akliemke/dailylog/blob/master/2018/Livros/Livros/desconstruindo_a_web.md) 
