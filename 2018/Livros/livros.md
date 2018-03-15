@@ -11,4 +11,4 @@
 
 -- [x] [Descontruíndo a Web | Willian Molinari](https://github.com/akliemke/dailylog/blob/master/2018/Livros/Livros/desconstruindo_a_web.md) 
 
--- [] A guerra não tem rosto de mulher | Svetlana Alexijevich
+-- [ ] A guerra não tem rosto de mulher | Svetlana Alexijevich
