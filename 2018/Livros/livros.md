@@ -7,6 +7,8 @@
 
 -- [ ] [O Gene, Uma História Íntima | Siddhartha Mukherjee](https://github.com/akliemke/dailylog/blob/master/2018/Livros/Livros/o_gene_siddartha.md) 
 
--- [ ] Os Bons Anjos da nossa natureza | 
+-- [ ] Os Bons Anjos da nossa natureza |  Steven Pinker
 
 -- [x] [Descontruíndo a Web | Willian Molinari](https://github.com/akliemke/dailylog/blob/master/2018/Livros/Livros/desconstruindo_a_web.md) 
+
+-- [x] [A guerra não tem rosto de mulher | Svetlana Alexijevich]() 
