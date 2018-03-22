@@ -2,7 +2,7 @@
 *[Lynsey Addario](https://en.wikipedia.org/wiki/Lynsey_Addario)*
 
 ## Conceitos
-
+Devorei esse livro mais rápido que eu gostaria. Sempre gostei de fotojornalismo, dos sentimentos captados nas fotos. Além disso, gosto muito de biografias e tentar vivenciar as experiências compartilhadas pelo autor. (continua...)  
 ## Noção Histórica
 
 ## Quotes
