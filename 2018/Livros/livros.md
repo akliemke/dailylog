@@ -13,4 +13,4 @@
 
 -- [ ] A guerra não tem rosto de mulher | Svetlana Alexijevich
 
--- [X] [Uma vida de amor e guerra | Lynsey Addario]()
+-- [X] [É Isso Que Eu Faço - Uma Vida De Amor E Guerra | Lynsey Addario]()
